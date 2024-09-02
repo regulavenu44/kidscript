@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/rounded_bg"
+    android:padding="8dp"
+    tools:context=".Fragment1"
+    >
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/contraintlayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ProgressBar
+            android:id="@+id/checkInProgressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="7"
+            android:progress="0"
+            android:progressTint="@color/colorAccent"
+            app:layout_constraintBottom_toTopOf="@+id/checkInButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/checkInButton"
+            android:layout_width="163dp"
+            android:layout_height="43dp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="@color/colorAccent"
+            android:gravity="center"
+            android:text="Check-in"
+            android:textColor="@android:color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.947"
+            tools:ignore="MissingConstraints" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/boxImage1"
+            android:layout_width="136dp"
+            android:layout_height="147dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/favlogo22" />
+
+        <TextView
+            android:id="@+id/boxName1"
+            android:layout_width="132dp"
+            android:layout_height="39dp"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="Favourites"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/linearLayout1"
+        android:layout_marginLeft="195dp"
+        android:layout_marginTop="72dp"
+        android:orientation="vertical"
+        android:padding="16dp">
+        <ImageView
+            android:id="@+id/boxImage2"
+            android:layout_width="137dp"
+            android:layout_height="147dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/librarylogo" />
+
+        <TextView
+            android:id="@+id/boxName2"
+            android:layout_width="139dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="Library"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_marginTop="300dp"
+       >
+
+        <ImageView
+            android:id="@+id/boxImage3"
+            android:layout_width="139dp"
+            android:layout_height="149dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ailogo" />
+
+        <TextView
+            android:id="@+id/boxName3"
+            android:layout_width="136dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="Create"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="169dp"
+        android:layout_height="225dp"
+        android:layout_alignLeft="@+id/linearLayout2"
+        android:padding="16dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="4dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/boxImage4"
+            android:layout_width="139dp"
+            android:layout_height="149dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/adv" />
+
+        <TextView
+            android:id="@+id/boxName4"
+            android:layout_width="136dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="name"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</RelativeLayout>

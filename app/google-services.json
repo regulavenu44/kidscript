@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863078141129",
+    "project_id": "kidscript1",
+    "storage_bucket": "kidscript1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863078141129:android:d9c4cd723c4fc4398b9118",
+        "android_client_info": {
+          "package_name": "com.example.kidscript1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf9yf_eicjibpOR_INJtodTrCD6B2Ml5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

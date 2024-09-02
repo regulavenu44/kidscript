@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/books"
+        android:title="Books"
+        android:icon="@drawable/open_book"/>
+    <item
+        android:id="@+id/generate"
+        android:title="Create"
+        android:icon="@drawable/magic_wand"/>
+    <item
+        android:id="@+id/profile"
+        android:title="Learn"
+        android:icon="@drawable/learning"/>
+</menu>

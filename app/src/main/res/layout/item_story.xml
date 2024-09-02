@@ -1,0 +1,21 @@
+<!-- res/layout/item_story.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/storyTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:padding="8dp"
+        android:textColor="#000"
+        android:background="#FFF"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <!-- Add other views to display additional story details -->
+</LinearLayout>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profanity_array">
+        <item>aad</item>
+        <item>आंड़</item>
+        <item>aand</item>
+        <item>आंड</item>
+        <item>आँड</item>
+        <item>bahenchod</item>
+        <item>बहनचोद</item>
+        <item>behenchod</item>
+        <item>बेहेनचोद</item>
+        <item>bhenchod</item>
+        <item>भेनचोद</item>
+        <item>bhenchodd</item>
+        <item>भेनचोद</item>
+        <item>b.c.</item>
+        <item>बहनचोद</item>
+        <item>bc</item>
+        <item>बहनचोद</item>
+        <item>bakchod</item>
+        <item>बकचोद</item>
+        <item>bakchodd</item>
+        <item>बकचोद</item>
+        <item>bakchodi</item>
+        <item>बकचोदी</item>
+        <item>bevda</item>
+        <item>बेवड़ा</item>
+        <item>bewda</item>
+        <item>बेवड़ा</item>
+        <item>bevdey</item>
+        <item>बेवड़े</item>
+        <item>bewday</item>
+        <item>बेवड़े</item>
+        <item>bevakoof</item>
+        <item>बेवकूफ</item>
+        <item>bevkoof</item>
+        <item>बेवकूफ</item>
+        <item>bevkuf</item>
+        <item>बेवकूफ</item>
+        <item>bewakoof</item>
+        <item>बे कूफ</item>
+        <item>bewkoof</item>
+        <item>बेवकूफ</item>
+        <item>bewkuf</item>
+        <item>बेवकूफ</item>
+        <item>bhadua</item>
+        <item>भड़ुआ</item>
+        <item>bhaduaa</item>
+        <item>भड़ुआ</item>
+        <item>bhadva</item>
+        <item>भड़वा</item>
+        <item>bhadvaa</item>
+        <item>भड़वा</item>
+        <item>bhadwa</item>
+        <item>भड़वा</item>
+        <item>bhadwaa</item>
+        <item>भड़वा</item>
+        <item>bhosada</item>
+        <item>भोसड़ा</item>
+        <item>bhosda</item>
+        <item>भोसड़ा</item>
+        <item>bhosdaa</item>
+        <item> ोसड़ा</item>
+        <item>bhosdike</item>
+        <item>भोसड़ीके</item>
+        <item>bhonsdike</item>
+        <item>भोसड़ीके</item>
+        <item>bsdk</item>
+        <item>भोसड़ के</item>
+        <item>b.s.d.k</item>
+        <item>भोसड़ीके</item>
+        <item>bhosdiki</item>
+        <item>भोसड़ीकी</item>
+        <item>bhosdiwala</item>
+        <item>भोसड़ीव  ला</item>
+        <item>bhosdiwale</item>
+        <item>भोसड़ीवाले</item>
+        <item>Bhosadchodal</item>
+        <item>भोसरचोदल</item>
+        <item>Bhosadchod</item>
+        <item>भो दचोद</item>
+        <item>Bhosadchodal</item>
+        <item>भोसड़ाचोदल</item>
+        <item>Bhosadchod</item>
+        <item>भोसड़ाचोद</item>
+        <item>babbe</item>
+        <item>ब ्बे</item>
+        <item>babbey</item>
+        <item>बब्बे</item>
+        <item>bube</item>
+        <item>  ूबे</item>
+        <item>bubey</item>
+        <item>बूबे</item>
+        <item>bur</item>
+        <item>ब र</item>
+        <item>burr</item>
+        <item>बुर</item>
+        <item>buurr</item>
+        <item>बुर</item>
+        <item>buur</item>
+        <item>बुर</item>
+        <item>charsi</item>
+        <item>चरसी</item>
+        <item>chooche</item>
+        <item>चूचे</item>
+        <item>choochi</item>
+        <item>चूची</item>
+        <item>chuchi</item>
+        <item>चुची</item>
+        <item>chhod</item>
+        <item>चोद</item>
+        <item>chod</item>
+        <item>चोद</item>
+        <item>chodd</item>
+        <item>चोद</item>
+        <item>chudne</item>
+        <item>चुदने</item>
+        <item>chudney</item>
+        <item>चुदने</item>
+        <item>chudwa</item>
+        <item>चुदवा</item>
+        <item>chudwaa</item>
+        <item>चुदवा</item>
+        <item>chudwane</item>
+        <item>चुदवाने</item>
+        <item>chudwaane</item>
+        <item>च दवाने</item>
+        <item>choot</item>
+        <item>चूत</item>
+        <item>chut</item>
+        <item> ूत</item>
+        <item>chute</item>
+        <item>चूत</item>
+        <item>chutia</item>
+        <item>चूतिया</item>
+        <item>chutiya</item>
+        <item>चुटिया</item>
+        <item>chutiye</item>
+        <item>चूतिये</item>
+        <item>dalaal</item>
+        <item>दलाल</item>
+        <item>dalal</item>
+        <item>दलाल</item>
+        <item>dalle</item>
+        <item>दलले</item>
+        <item>dalley</item>
+        <item>दलले</item>
+        <item>fattu</item>
+        <item>फट्टू</item>
+        <item>gadha</item>
+        <item>गधा</item>
+        <item>gadhe</item>
+        <item>गधे</item>
+        <item>gadhalund</item>
+        <item>गधालंड</item>
+        <item>gaand</item>
+        <item>गांड</item>
+        <item>gand</item>
+        <item>गांड</item>
+        <item>gandu</item>
+        <item>गांडू</item>
+        <item>gandfat</item>
+        <item>गंडफट</item>
+        <item>gandfut</item>
+        <item>गंडफट</item>
+        <item>gandiya</item>
+        <item>गंडिया</item>
+        <item>gandiye</item>
+        <item>गंडिये</item>
+        <item>goo</item>
+        <item>गू</item>
+        <item>gu</item>
+        <item>गू</item>
+        <item>gote</item>
+        <item>गोटे</item>
+        <item>gotey</item>
+        <item>गोटे</item>
+        <item>gotte</item>
+        <item>गोटे</item>
+        <item>hag</item>
+        <item>हग</item>
+        <item>haggu</item>
+        <item>हग्गू</item>
+        <item>hagne</item>
+        <item>हगने</item>
+        <item>hagney</item>
+        <item>हगने</item>
+        <item>harami</item>
+        <item>हरामी</item>
+        <item>haramjada</item>
+        <item>हरामजादा</item>
+        <item>haraamjaada</item>
+        <item>हरामजाद </item>
+        <item>haramzyada</item>
+        <item>हरामज़ादा</item>
+        <item>haraamzyaada</item>
+        <item>हरामज़ादा</item>
+        <item>haraamjaade</item>
+        <item>हराम ादे</item>
+        <item>haraamza</item>
+        <item>arse</item>
+        <item>arsehead</item>
+        <item>arsehole</item>
+        <item>ass</item>
+        <item>asshole</item>
+        <item>bastard</item>
+        <item>bitch</item>
+        <item>bloody</item>
+        <item>bollocks</item>
+        <item>brotherfucker</item>
+        <item>bugger</item>
+        <item>bullshit</item>
+        <item>child-fucker</item>
+        <item>Christ on a bike</item>
+        <item>Christ on a cracker</item>
+        <item>cock</item>
+        <item>cocksucker</item>
+        <item>crap</item>
+        <item>cunt</item>
+        <item>damn</item>
+        <item>damn it</item>
+        <item>dick</item>
+        <item>dickhead</item>
+        <item>dyke</item>
+        <item>fatherfucker</item>
+        <item>frigger</item>
+        <item>fuck</item>
+        <item>goddamn</item>
+        <item>godsdamn</item>
+        <item>hell</item>
+        <item>holy shit</item>
+        <item>horseshit</item>
+        <item>in shit</item>
+        <item>Jesus Christ</item>
+        <item>Jesus fuck</item>
+        <item>Jesus H. Christ</item>
+        <item>Jesus Harold Christ</item>
+        <item>Jesus, Mary and Joseph</item>
+        <item>Jesus wept</item>
+        <item>kike</item>
+        <item>motherfucker</item>
+        <item>nigga</item>
+        <item>nigra</item>
+        <item>pigfucker</item>
+        <item>piss</item>
+        <item>prick</item>
+        <item>pussy</item>
+        <item>shit</item>
+        <item>shit ass</item>
+        <item>shite</item>
+        <item>sisterfucker</item>
+        <item>slut</item>
+        <item>son of a whore</item>
+        <item>son of a bitch</item>
+        <item>spastic</item>
+        <item>sweet Jesus</item>
+        <item>turd</item>
+        <item>twat</item>
+        <item>wanker</item>
+        <item>aathulu</item>
+        <item>modda</item>
+        <item>moda</item>
+        <item>athulu</item>
+        <item>athu</item>
+        <item>sulla</item>
+        <item>sulli.suli</item>
+        <item>dengutha</item>
+        <item>dengey</item>
+        <item>dengu</item>
+        <item>dengichuko</item>
+        <item>dengei</item>
+        <item>dengey</item>
+        <item>pooku</item>
+        <item>puku</item>
+        <item>dengina</item>
+        <item>bochu</item>
+        <item>bowchu</item>
+        <item>bosudi</item>
+        <item>bosudiga</item>
+        <item>bosidika</item>
+        <item>bosidaka</item>
+        <item>chulli</item>
+        <item>sulliga</item>
+        <item>chulliga</item>
+        <item>lanja.lanj</item>
+        <item>fooku</item>
+        <item>madda</item>
+        <item>gudda</item>
+        <item>guddha</item>
+        <item>pichilanja</item>
+        <item>pichilanj</item>
+        <item>golli</item>
+        <item>pichalu</item>
+        <item>pichal</item>
+        <item>kojja</item>
+        <item>munda</item>
+        <item>kojjamunda</item>
+        <item>lanjodaka</item>
+        <item>lanjodka</item>
+        <item>pooka</item>
+        <item>fooka</item>
+        <item>sully</item>
+        <item>dengudu</item>
+        <item>lanja</item>
+        <item>lanjakodaka</item>
+        <item>lanjakodka</item>
+        <item>daddu</item>
+        <item>dhaddu</item>
+        <item>muddy</item>
+        <item>pookulo</item>
+        <item>pukulo</item>
+        <item>kutha</item>
+        <item>kuttha</item>
+        <item>kuta</item>
+        <item>sanlu</item>
+        <item>sallu</item>
+        <item>boob</item>
+        <item>boobs</item>
+        <item>porn</item>
+    </string-array>
+</resources>
